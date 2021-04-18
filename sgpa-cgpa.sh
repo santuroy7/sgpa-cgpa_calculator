@@ -73,24 +73,3 @@ printf "                        \e[2;32m Your CGPA after $sem's Semester is $cgp
 echo -e "               \e[2;36m________________________Have A Good Day____________________________ \e[0m"
 echo " "
 
-
-
-Output:-
-
-                 *****************************Welcome*****************************
-                         Enter Your Name: Santu Roy
-                         Enter Your Reg.No: 1841017005
-                         Hello! Santu Roy Welcome To Result View System....
-                         Enter the Number of Semester's: 2
-                         Enter total subject's: 4
-                         Enter Your Grades in 1's Semester: a b c d
-                         Enter Your Credits in 1's Semester: 2 3 1 2
-                         Your SGPA in 1's Semester is: 7.62
-
-                         Enter Your Grades in 2's Semester: o a b c
-                         Enter Your Credits in 2's Semester: 3 2 3 4
-                         Your SGPA in 2's Semester is: 8.33
-
-                         Your CGPA after 2's Semester is 7.97
-                ________________________Have A Good Day____________________________
-
